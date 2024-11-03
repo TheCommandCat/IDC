@@ -1,0 +1,8 @@
+Package: idc
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: docker.io
+Maintainer: TheCommandCat <bhrtkhvji@gmail.com>
+Description: A simple cli tool to create docker compose stacks in seconds without even the need to create one file!
