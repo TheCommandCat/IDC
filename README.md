@@ -15,7 +15,7 @@ Feel free to explore the code and learn from it.
 ## Requirements
 
 - Docker must be installed on your system.
- installing the package sould download it as a dependency if it dosent
+ if it isn't
  you can install Docker from [here](https://docs.docker.com/get-docker/).
 
 ## Installation
